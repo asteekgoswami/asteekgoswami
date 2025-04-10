@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I am Asteek Goswami 👋
 
-<!--
-**asteekgoswami/asteekgoswami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software engineer at [TMotions Global Private Limited](https://tmotions.com/), specializing in backend development with .NET Core and custom module creation in Orchard CMS. I thrive on solving complex problems and delivering efficient solutions for business needs.
 
-Here are some ideas to get you started:
+## Professional Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Beyond my core expertise, I actively explore various technological domains, including:
+
+- **Artificial Intelligence and Machine Learning (AI/ML):** Delving into the intricacies of AI and ML to build intelligent applications.
+- **Microsoft Azure:** Leveraging Azure's cloud services for scalable and secure solutions.
+- **Python Automation:** Utilizing Python to automate tasks and enhance productivity.
+- **React:** Developing dynamic and responsive user interfaces with React.
+
+## More About Me
+
+When I'm not immersed in coding, I enjoy:
+
+- Catching up on sleep to recharge and stay productive.
+- Binge-watching series and movies on Netflix.
+- Traveling to new destinations and experiencing diverse cultures.
+
+## Connect with Me
+
+Feel free to reach out and connect with me:
+
+- **LinkedIn:** [linkedin.com/in/asteekgoswami/](https://www.linkedin.com/in/asteekgoswami/)
+- **GitHub:** [github.com/asteekgoswami](https://github.com/asteekgoswami)
+
+Let's collaborate and innovate together!
