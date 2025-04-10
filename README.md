@@ -16,6 +16,18 @@ Beyond my core expertise, I actively explore various technological domains, incl
 I am passionate about contributing to  projects that foster community growth and innovation. Some of my notable projects include:
 - **[Mobile Dog Grooming Directory](https://www.mobile-doggrooming.co.uk/) 🐶📱:** Collaborated on a project aimed at creating a comprehensive directory for mobile dog groomers in the UK, providing detailed information, galleries, and operating hours for each service.
 
+## Skills Proficiency
+
+- **.NET Core**: ██████████ 90%
+- **ASP.NET**: █████████ 80%
+- **SQL**: ████████ 70%
+- **Orchard Core**: ███████ 60%
+![.NET Core](https://img.shields.io/badge/.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Orchard Core](https://img.shields.io/badge/Orchard_Core-8BC34A?style=for-the-badge&logo=orchard&logoColor=white)
+
+
 ## More About Me 🎉
 
 When I'm not immersed in coding, I enjoy:
