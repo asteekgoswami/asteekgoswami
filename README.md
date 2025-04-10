@@ -18,10 +18,6 @@ I am passionate about contributing to  projects that foster community growth and
 
 ## Skills Proficiency
 
-- **.NET Core**: ██████████ 90%
-- **ASP.NET**: █████████ 80%
-- **SQL**: ████████ 70%
-- **Orchard Core**: ███████ 60%
 ![.NET Core](https://img.shields.io/badge/.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
