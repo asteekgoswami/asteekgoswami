@@ -41,6 +41,6 @@ When I'm not immersed in coding, I enjoy:
 Feel free to reach out and connect with me:
 
 - **LinkedIn:** [linkedin.com/in/asteekgoswami/](https://www.linkedin.com/in/asteekgoswami/)
-- **Leetcode:** [leetcode.com/u/asteekgoswami/]((https://leetcode.com/u/asteekgoswami/)
+- **Leetcode:** [leetcode.com/u/asteekgoswami/](https://leetcode.com/u/asteekgoswami/)
 
 Let's collaborate and innovate together! 🚀
