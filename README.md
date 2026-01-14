@@ -3,7 +3,7 @@
 I am a software engineer at [TMotions Global Private Limited](https://tmotions.com/), working with .NET Core and building custom modules with Orchard Core CMS. My work focuses on solving backend challenges, and implementing solutions aligned with business requirements.
 ## Professional Interests 🚀
 
-Alongside, , I actively explore and learn across multiple domains to broaden my technical perspective:
+Alongside, I actively explore and learn across multiple domains to broaden my technical perspective:
 
 - **Artificial Intelligence & Machine Learning (AI/ML) 🤖** – Exploring AI/ML concepts and their application in building intelligent systems.
 - **Agentic AI & AI Agents 🧠** – Designing and experimenting with autonomous agents, tool-based workflows, and LLM-driven automation.
