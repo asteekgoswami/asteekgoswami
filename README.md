@@ -1,15 +1,15 @@
 # Hi, I am Asteek Goswami 👋
 
-I am a software engineer at [TMotions Global Private Limited](https://tmotions.com/), specializing in backend development with .NET Core and custom module creation in Orchard CMS. I thrive on solving complex problems and delivering efficient solutions for business needs.
-
+I am a software engineer at [TMotions Global Private Limited](https://tmotions.com/), working primarily on backend development using .NET Core and building custom modules with Orchard Core CMS. My work focuses on solving backend challenges, and implementing solutions aligned with business requirements.
 ## Professional Interests 🚀
 
-Beyond my core expertise, I actively explore various technological domains, including:
+Alongside, , I actively explore and learn across multiple domains to broaden my technical perspective:
 
-- **Artificial Intelligence and Machine Learning (AI/ML) 🤖:** Delving into the intricacies of AI and ML to build intelligent applications.
-- **Microsoft Azure ☁️:** Leveraging Azure's cloud services for scalable and secure solutions.
-- **Python Automation 🐍:** Utilizing Python to automate tasks and enhance productivity.
-- **React ⚛️:** Developing dynamic and responsive user interfaces with React.
+- **Artificial Intelligence & Machine Learning (AI/ML) 🤖** – Exploring AI/ML concepts and their application in building intelligent systems.
+- **Agentic AI & AI Agents 🧠** – Designing and experimenting with autonomous agents, tool-based workflows, and LLM-driven automation.
+- **Microsoft Azure ☁️** – Working with Azure services to support scalable and secure cloud-based solutions.
+- **Python Automation 🐍** – Applying Python for task automation and workflow optimization.
+- **React ⚛️** – Developing responsive and interactive user interfaces.
 
 ## Contributions 🌟
 
