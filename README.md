@@ -1,6 +1,6 @@
 # Hi, I am Asteek Goswami 👋
 
-I am a software engineer at [TMotions Global Private Limited](https://tmotions.com/), working primarily on backend development using .NET Core and building custom modules with Orchard Core CMS. My work focuses on solving backend challenges, and implementing solutions aligned with business requirements.
+I am a software engineer at [TMotions Global Private Limited](https://tmotions.com/), working with .NET Core and building custom modules with Orchard Core CMS. My work focuses on solving backend challenges, and implementing solutions aligned with business requirements.
 ## Professional Interests 🚀
 
 Alongside, , I actively explore and learn across multiple domains to broaden my technical perspective:
