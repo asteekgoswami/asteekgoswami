@@ -1,12 +1,11 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=5C2D91&center=true&vCenter=true&width=435&lines=HHi%2C+I+am+Asteek+Goswami+%F0%9F%91%8B;Software+Engineer+at+TMotions;Building+with+.NET+%26+Orchard+Core;Exploring+Agentic+AI+%26+Azure" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=5C2D91&center=true&vCenter=true&width=600&lines=Hi%2C+I+am+Asteek+Goswami+%F0%9F%91%8B;Software+Engineer+at+TMotions;Building+with+.NET+%26+Orchard+Core;Exploring+Agentic+AI+%26+Azure" alt="Typing SVG" />
 </div>
 
 <p align="center">
   <a href="https://linkedin.com/in/asteekgoswami/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://leetcode.com/u/asteekgoswami/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 </p>
-
 
 ---
 
@@ -51,8 +50,11 @@ Alongside my day-to-day work, I actively explore and build across multiple cutti
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asteekgoswami&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Asteek's GitHub stats" height="195"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asteekgoswami&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" height="195"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asteekgoswami&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" height="195"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=asteekgoswami&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 <br/>
